@@ -74,6 +74,18 @@
     <Compile Include="Models\TelefonoCliente.cs" />
     <Compile Include="Models\TelefonoProveedor.cs" />
     <Compile Include="Models\TipoEmpaque.cs" />
+    <Compile Include="ModelViews\ClienteModelView.cs" />
+    <Compile Include="ModelViews\CompraModelView.cs" />
+    <Compile Include="ModelViews\DetalleCompraModelView.cs" />
+    <Compile Include="ModelViews\DetalleFacturaModelView.cs" />
+    <Compile Include="ModelViews\EmailClienteModelView.cs" />
+    <Compile Include="ModelViews\EmailProveedorModelView.cs" />
+    <Compile Include="ModelViews\FacturaModelView.cs" />
+    <Compile Include="ModelViews\InventarioModelView.cs" />
+    <Compile Include="ModelViews\ProveedorModelView.cs" />
+    <Compile Include="ModelViews\TelefonoClienteModelView.cs" />
+    <Compile Include="ModelViews\TelefonoProveedorModelView.cs" />
+    <Compile Include="ModelViews\TipoEmpaqueModelView.cs" />
     <Compile Include="Views\CategoriaView.xaml.cs">
       <DependentUpon>CategoriaView.xaml</DependentUpon>
     </Compile>
